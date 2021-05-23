@@ -1,2 +1,8 @@
 # Sufia-Kamal-Hall-Management-System
 Sufia kamal Hall is the name of the ladies hall of Chittagong University of Engineering and Technology(CUET).The Sufia Kamal Hall Management System is developed to manage the information of the students staying in the Sufia kamal hall, handle different hall related issues such as dining issues, rent issues, seat allotment issues. Halls are important part of an institution which offer accommodation for the students coming from different districts of the country. This system will help the students in getting seats in the hall without any difficulty. The development of this system also focus on security of the information and privileges. The access rights are attributed to students, office staffs and administrators. For the past few years the number of educational institutions is increasing rapidly. Thereby the number of hall is also increasing for the accommodation of the students studying in these institutions. And hence there is a lot of strain on the person who are running the hall and softwares are not usually used in this context. This particular project deals with the problems on managing a hall and avoids the problems which occur when carried manually. Identifcation of the drawbacks of the existing system leads to the designing of computerized system that will be more user friendly and GUI oriented. Our system offers great effciency that can overcome the drawbacks of the manual system.
+
+There are three stack holders of the application who are going to interact directly with the applica-
+tion. They are
+1. Students
+2. Hall provosts
+3. Hall office staffs
